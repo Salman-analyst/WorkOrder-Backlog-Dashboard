@@ -4,6 +4,10 @@
 
 This Power BI dashboard provides a detailed analysis of work order backlogs, including pending tasks, completion rates, and workforce efficiency. It helps businesses track and manage work orders effectively by visualizing key insights.
 
+🖼️ Dashboard Preview
+
+https://raw.githubusercontent.com/your-username/repo-name/main/Screenshot%20(47).png aur Screenshot%20(48).png
+
 📂 Files Included
 
 Work Order Backlog.pbix – Power BI file containing the complete dashboard.
@@ -11,6 +15,7 @@ Work Order Backlog.pbix – Power BI file containing the complete dashboard.
 Work Order Backlog.xlsx – Excel dataset used for analysis.
 
 README.md – Documentation file.
+
 
 📈 Key Insights & Metrics
 
