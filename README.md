@@ -6,6 +6,8 @@ This Power BI dashboard provides a detailed analysis of work order backlogs, inc
 
 🖼️ Dashboard Preview
 
+![Screenshot (47)](https://github.com/user-attachments/assets/0150fd53-4876-4464-9ccf-43fb7cff3d74)
+
 ![Screenshot (48)](https://github.com/user-attachments/assets/1f01fc85-34fc-41ce-af91-f9a252a37ddf)
 
 📂 Files Included
